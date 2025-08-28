@@ -2,25 +2,17 @@
 
 /**
  * Dynamic Programming 1D:
- *
- * Quando falamos em Dynamic Programming (DP), estamos a falar de resolver problemas através de dividir em
- * subproblemas e guardar os resultados intermédios (memoization ou tabulation), evitando recomputações.
- * Porquê 1D?
- * Chama-se Dynamic Programming 1D quando conseguimos representar a solução de cada subproblema apenas numa dimensão
- * (um array ou até duas variáveis).
+ * - Dynamic Programming (DP) implica resolver problemas dividindo em subproblemas e guardar os resultados intermédios (memoization ou tabulation), evitando recomputações.
+ * - Chama-se 1D quando conseguimos representar a solução de cada subproblema apenas numa dimensão (um array ou até duas variáveis).
  * Ou seja:
- * Cada posição i depende apenas de resultados anteriores (ex: i-1, i-2).
- * Não precisamos de uma matriz ou grid (2D), basta um array linear ou mesmo duas variáveis para guardar o estado.
+ * - Cada posição i depende apenas de resultados anteriores (ex: i-1, i-2).
+ * - Não precisamos de uma matriz ou grid (2D), basta um array linear ou mesmo duas variáveis para guardar o estado.
  */
 
 /**
- *
  * Bottom-Up Tabulation significa resolver do caso mais pequeno até ao maior, guardando resultados intermédios numa tabela (array).
- * Para Fibonacci:
- *  Base: dp[0] = 0, dp[1] = 1
- * Depois, para cada i:
- *  dp[i] = dp[i-1] + dp[i-2]
- *
+ *  Para Fibonacci: Base: dp[0] = 0, dp[1] = 1
+ *  Depois, para cada i: dp[i] = dp[i-1] + dp[i-2]
  * Vantagens sobre Recursão “pura”:
  *  A recursão simples do Fibonacci recalcula os mesmos valores muitas vezes → O(2^n) (muito ineficiente).
  *  A tabulação calcula cada valor uma única vez → O(n).

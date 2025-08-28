@@ -1,3 +1,5 @@
+// 04-two-pointers/1_twoSumSorted.template.js
+//
 /**
  * Template: Two Pointers para encontrar dois números que somam um alvo num array ordenado
  * Quando usar: Quando o array já está ordenado e precisamos de encontrar um par com soma target.
@@ -11,8 +13,8 @@
  */
 
 function twoSumSorted(nums, target) {
-  let left = 0,
-    right = nums.length - 1;
+  let left = 0;
+  let right = nums.length - 1;
 
   while (left < right) {
     const sum = nums[left] + nums[right];
