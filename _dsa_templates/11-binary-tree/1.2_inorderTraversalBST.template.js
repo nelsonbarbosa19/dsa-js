@@ -1,4 +1,4 @@
-// 06-binary-tree/1.2_inorderTraversalBST.template.js
+// 11-binary-tree/1.2_inorderTraversalBST.template.js
 
 /**
  * Template: Travessia in-order numa BST

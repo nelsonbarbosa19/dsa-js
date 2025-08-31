@@ -1,4 +1,4 @@
-// 06-binary-tree/2_levelOrderTraversal.template.js
+// 11-binary-tree/2_levelOrderTraversal.template.js
 
 /**
  * Template: BFS (Level Order Traversal)

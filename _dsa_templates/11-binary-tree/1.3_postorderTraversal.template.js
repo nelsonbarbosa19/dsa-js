@@ -1,4 +1,4 @@
-// 06-binary-tree/1.3_postorderTraversal.template.js
+// 11-binary-tree/1.3_postorderTraversal.template.js
 
 /**
  * Template: Postorder Traversal (Left → Right → Root)

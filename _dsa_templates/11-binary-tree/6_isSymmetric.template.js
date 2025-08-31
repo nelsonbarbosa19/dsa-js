@@ -1,4 +1,4 @@
-// 06-binary-tree/4_isSymmetric.template.js
+// 11-binary-tree/4_isSymmetric.template.js
 
 /**
  * Template: Verificar se a árvore é simétrica

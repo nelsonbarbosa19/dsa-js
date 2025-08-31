@@ -1,4 +1,4 @@
-// 06-binary-tree/4_countNodes.template.js
+// 11-binary-tree/4_countNodes.template.js
 
 /**
  * Template: Contar número de nós

@@ -1,4 +1,4 @@
-// 06-binary-tree/1.1_preorderTraversal.template.js
+// 11-binary-tree/1.1_preorderTraversal.template.js
 
 /**
  * Template: Preorder Traversal (Root → Left → Right)

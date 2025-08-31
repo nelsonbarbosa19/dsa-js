@@ -1,4 +1,4 @@
-// 06-binary-tree/4_isSameTree.template.js
+// 11-binary-tree/4_isSameTree.template.js
 
 /**
  * Template: Verificar se duas árvores são iguais

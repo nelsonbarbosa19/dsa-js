@@ -1,4 +1,4 @@
-// 06-binary-tree/3_maxDepth.template.js
+// 11-binary-tree/3_maxDepth.template.js
 
 /**
  * Template: Altura (profundidade máxima) da árvore
