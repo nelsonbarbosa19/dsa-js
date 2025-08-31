@@ -24,5 +24,3 @@ function twoSumHashMap(nums, target) {
 
   return [];
 }
-
-module.exports = twoSumHashMap;

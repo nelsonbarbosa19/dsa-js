@@ -13,5 +13,3 @@ function maxDepth(root) {
 
   return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
 }
-
-module.exports = maxDepth;

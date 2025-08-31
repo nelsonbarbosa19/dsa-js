@@ -19,5 +19,3 @@ function findMaxBST(root) {
 
   return root;
 }
-
-module.exports = findMaxBST;

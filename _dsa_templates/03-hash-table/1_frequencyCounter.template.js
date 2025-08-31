@@ -18,5 +18,3 @@ function frequencyCounter(arr) {
 
   return freq;
 }
-
-module.exports = frequencyCounter;

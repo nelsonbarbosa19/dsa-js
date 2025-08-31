@@ -22,5 +22,3 @@ function insertBST(root, val) {
 
   return root;
 }
-
-module.exports = insertBST;

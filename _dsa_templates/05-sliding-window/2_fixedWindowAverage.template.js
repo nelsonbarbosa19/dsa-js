@@ -27,5 +27,3 @@ function fixedWindowAverage(nums, k) {
 
   return result;
 }
-
-module.exports = fixedWindowAverage;

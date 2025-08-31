@@ -16,5 +16,3 @@ function isSameTree(p, q) {
 
   return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
 }
-
-module.exports = isSameTree;

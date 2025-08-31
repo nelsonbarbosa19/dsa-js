@@ -45,5 +45,3 @@ function maximumSubarray(nums) {
 
   return maxSum;
 }
-
-module.exports = maximumSubarray;

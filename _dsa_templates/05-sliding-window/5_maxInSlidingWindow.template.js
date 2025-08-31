@@ -32,5 +32,3 @@ function maxInSlidingWindow(nums, k) {
 
   return result;
 }
-
-module.exports = maxInSlidingWindow;

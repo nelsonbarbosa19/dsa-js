@@ -24,5 +24,3 @@ function isSymmetric(root) {
 
   return isMirror(root.left, root.right);
 }
-
-module.exports = isSymmetric;

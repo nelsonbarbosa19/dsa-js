@@ -28,5 +28,3 @@ function isAnagram(s, t) {
 
   return count.size === 0;
 }
-
-module.exports = isAnagram;

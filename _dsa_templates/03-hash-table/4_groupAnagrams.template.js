@@ -24,5 +24,3 @@ function groupAnagrams(words) {
 
   return Array.from(map.values());
 }
-
-module.exports = groupAnagrams;

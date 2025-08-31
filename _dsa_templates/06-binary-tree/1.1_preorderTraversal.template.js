@@ -18,5 +18,3 @@ function preorderTraversal(root, result = []) {
 
   return result;
 }
-
-module.exports = preorderTraversal;

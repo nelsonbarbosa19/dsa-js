@@ -37,5 +37,3 @@ function deleteBST(root, key) {
 
   return root;
 }
-
-module.exports = deleteBST;

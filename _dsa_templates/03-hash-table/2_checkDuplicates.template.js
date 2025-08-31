@@ -20,5 +20,3 @@ function checkDuplicates(arr) {
 
   return false;
 }
-
-module.exports = checkDuplicates;

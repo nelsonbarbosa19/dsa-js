@@ -19,5 +19,3 @@ function findMinBST(root) {
 
   return root;
 }
-
-module.exports = findMinBST;

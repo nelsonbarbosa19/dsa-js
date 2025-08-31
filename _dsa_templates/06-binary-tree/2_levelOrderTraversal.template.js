@@ -31,5 +31,3 @@ function levelOrderTraversal(root) {
 
   return result;
 }
-
-module.exports = levelOrderTraversal;

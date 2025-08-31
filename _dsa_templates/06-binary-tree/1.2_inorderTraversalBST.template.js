@@ -17,5 +17,3 @@ function inorderTraversalBST(root, result = []) {
 
   return result;
 }
-
-module.exports = inorderTraversalBST;

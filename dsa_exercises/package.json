@@ -12,5 +12,8 @@
   "packageManager": "pnpm@10.12.2",
   "devDependencies": {
     "jest": "^30.0.5"
+  },
+  "dependencies": {
+    "leetcode-dsa-js": "link:"
   }
 }

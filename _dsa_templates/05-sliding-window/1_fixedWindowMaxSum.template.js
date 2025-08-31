@@ -29,5 +29,3 @@ function fixedWindowMaxSum(nums, k) {
 
   return maxSum;
 }
-
-module.exports = fixedWindowMaxSum;

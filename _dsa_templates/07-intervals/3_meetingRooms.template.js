@@ -45,5 +45,3 @@ function meetingRooms(intervals) {
 
   return rooms;
 }
-
-module.exports = meetingRooms;

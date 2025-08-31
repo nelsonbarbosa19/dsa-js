@@ -29,5 +29,3 @@ function variableWindowLongestSubstring(s) {
 
   return maxLen;
 }
-
-module.exports = variableWindowLongestSubstring;

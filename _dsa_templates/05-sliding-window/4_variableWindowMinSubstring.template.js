@@ -55,5 +55,3 @@ function variableWindowMinSubstring(s, t) {
 
   return minLen === Infinity ? "" : s.substring(start, start + minLen);
 }
-
-module.exports = variableWindowMinSubstring;

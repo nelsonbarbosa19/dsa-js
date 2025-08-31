@@ -13,5 +13,3 @@ function countNodes(root) {
 
   return 1 + countNodes(root.left) + countNodes(root.right);
 }
-
-module.exports = countNodes;
