@@ -1,4 +1,4 @@
-// _dsa_templates/12-bst_binary-search-tree/6_isValidBST_bounds.template.js
+// _dsa_templates/12-bst_binary-search-tree/5_isValidBST_bounds.template.js
 
 /**
  * Template: Validar BST (método dos limites: min/max)

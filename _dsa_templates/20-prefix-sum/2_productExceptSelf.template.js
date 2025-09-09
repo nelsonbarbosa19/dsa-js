@@ -1,4 +1,4 @@
-// 20-prefix-sum/2_prefixSuffixAccumulation.template.js
+// 20-prefix-sum/2_productExceptSelf.template.js
 
 /**
  * Template: Prefix + Suffix Accumulation

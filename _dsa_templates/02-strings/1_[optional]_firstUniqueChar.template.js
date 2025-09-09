@@ -1,4 +1,4 @@
-// 02-strings/5_firstUniqueChar.template.js
+// 02-strings/1_firstUniqueChar.template.js
 
 /**
  * Template: First Unique Character

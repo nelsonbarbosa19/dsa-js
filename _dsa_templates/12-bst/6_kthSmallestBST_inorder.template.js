@@ -1,4 +1,4 @@
-// _dsa_templates/12-bst_binary-search-tree/7_kthSmallestBST_inorder.template.js
+// _dsa_templates/12-bst_binary-search-tree/6_kthSmallestBST_inorder.template.js
 
 /**
  * Template: k-th Smallest em BST (in-order)

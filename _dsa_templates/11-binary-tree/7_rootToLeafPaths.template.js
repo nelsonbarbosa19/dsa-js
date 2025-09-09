@@ -47,32 +47,3 @@ function rootToLeafPaths(root) {
 
   return paths;
 }
-
-/* ==============================
- * Variante Iterativa (opcional)
- * Stack de pares (node, pathAtualComoArray)
- * Útil se quiseres evitar recursão.
- * ============================== */
-// function rootToLeafPathsIterative(root) {
-//   if (!root) return [];
-//   const res = [];
-//   const stack = [[root, [root.val]]];
-
-//   while (stack.length) {
-//     const [node, path] = stack.pop();
-
-//     if (!node.left && !node.right) {
-//       // --- Variante A: array ---
-//       res.push(path.slice());
-//       // --- Variante B: string ---
-//       // res.push(path.join("->"));
-//     }
-
-//     if (node.right) stack.push([node.right, [...path, node.right.val]]);
-//     if (node.left)  stack.push([node.left,  [...path, node.left.val]]);
-//   }
-
-//   return res;
-// }
-
-module.exports = { rootToLeafPaths /*, rootToLeafPathsIterative */ };

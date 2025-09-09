@@ -1,4 +1,4 @@
-// 07-intervals/3_meetingRooms.template.js
+// 07-intervals/3_meetingRooms_minRooms.template.js
 
 /**
  * Template: Meeting Rooms II

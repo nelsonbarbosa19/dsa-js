@@ -1,4 +1,4 @@
-// _dsa_templates/12-bst_binary-search-tree/8_lowestCommonAncestorBST.template.js
+// _dsa_templates/12-bst_binary-search-tree/7_lowestCommonAncestorBST.template.js
 
 /**
  * Template: Lowest Common Ancestor (LCA) em BST

@@ -1,4 +1,4 @@
-// 01-arrays/6_maxProfit.template.js
+// 01-arrays/2_maxProfit.template.js
 
 /**
  * Template: Best Time to Buy and Sell Stock
